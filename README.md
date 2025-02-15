@@ -40,3 +40,5 @@ is running on (visible in the terminal).
 ## Credits
 
 Logit Lens visualization inspired by [Nostalgebraist's work](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+
+`known_1000.json` dataset sourced from Bau Lab: [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
